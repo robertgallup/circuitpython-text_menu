@@ -1,8 +1,8 @@
 # circuitpython-text_menu
 
 ```
-Author:    			Robert Gallup (bg@robertgallup.com)
-License:   			MIT Opensource License (see license.txt) 
+Author:    	Robert Gallup (bg@robertgallup.com)
+License:   	MIT Opensource License (see license.txt) 
 Compatability: 	CircuitPython 7+
 ```
 
