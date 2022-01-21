@@ -1,5 +1,18 @@
 # circuitpython-text_menu
-Simple text menu for running CircuitPython modules from a serial monitor.
+
+```
+Author:    			Robert Gallup (bg@robertgallup.com)
+License:   			MIT Opensource License (see license.txt) 
+Compatability: 	CircuitPython 7+
+```
+
+
+
+## Overview
+
+This is a simple text menu utility to make it easy to have multiple scripts on a CircuitPython and run them without having to rename them to `code.py` or `main.py` each time.
+
+## Usage + Notes
 
 To use this utility, simply place the `code.py` file at the root of your CircuitPython drive. Any CircuitPython modules you want to be able to run from the menu (.py files) must be placed in the root (not in sub-directories).
 
