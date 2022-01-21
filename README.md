@@ -25,4 +25,4 @@ A few notes:
 3. Only files with `.txt`, `.py`, and `.mpy` extensions will be listed
 4. `code.py` and `menu.py` and any files beginning with "`.`" or "`_`" will not be listed
 5. The menu will list a maximum of 26 modules (a-z). If you have more modules in your CircuitPython root, "more..." will be displayed following the "z" choice to indicate there are more items on the drive. But, the additional files won't show in the menu.
-6. `ctrl+C`, `ctrl+D` will exit the current module and restart the menu. If a module ends normally, `ctrl+D` will re-run the menu.
+6. `ctrl+C` followed by `ctrl+D` will exit the current module and restart the menu. If a module ends normally, `ctrl+D` will re-run the menu.
