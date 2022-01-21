@@ -2,7 +2,7 @@
 
 ```
 Author:    	Robert Gallup (bg@robertgallup.com)
-License:   	MIT Opensource License (see license.txt) 
+License:   	MIT Opensource License (see LICENSE file) 
 Compatability: 	CircuitPython 7+
 ```
 
